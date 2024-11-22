@@ -1,0 +1,32 @@
+\documentclass[10pt,letterpaper,final]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{fourier}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Abdon Morales\\The University of Texas at Austin\\Department of Computer Science}
+\title{CS 309 Ethics Project}
+\begin{document}
+\maketitle
+\date
+
+% Introduction and the discription of the technology is chose
+\chapter{Technology Description}
+
+% How is this tech that I chose AI-based or contains AI elements
+\chapter{What makes this an AI-based technology}
+
+% What are the strenghts and limits of the technology
+\chapter{Strengths and limitations}
+
+% What are the risk associated with this technology
+\chapter{Addressing risks}
+
+% What are some improvements that can be done to this technology?
+\chapter{Improvements}
+
+% Closing arguments and future direction of this technology
+\chapter{Conclusion and future directions}
+\end{document}

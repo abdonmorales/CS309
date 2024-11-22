@@ -1,0 +1,8 @@
+report 10pt, letterpaper, final,
+inputenc utf8
+amsmath 
+amsfonts 
+amssymb 
+graphicx 
+fourier 
+geometry left=2cm,right=2cm,top=2cm,bottom=2cm

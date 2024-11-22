@@ -1,0 +1,10 @@
+
+1. NBC News - US Record Labels vs AI Music Generators:
+   U.S. record labels are suing several AI music generator platforms, accusing them of copyright infringement. The lawsuit alleges that these AI models use copyrighted music to generate new songs without obtaining proper licenses. The focus is on the method by which these AI models are trained, as they are believed to be fed large datasets of copyrighted songs, violating intellectual property rights. This case may reshape how the music industry handles AI-generated content and copyright in the future.
+
+2. Artnet News - Artists vs Stability AI Lawsuit:
+   Several artists filed a class-action lawsuit against Stability AI and other AI companies for using their artwork without permission to train AI models that generate images. These artists claim that the use of their copyrighted works for training AI violates their intellectual property rights. A California judge allowed the case to move forward, giving the artists a significant win. This case highlights the growing tension between artists and AI companies as the legal system seeks to define the boundaries of AI in the art world.
+
+3. NPR - AI Voice Lab vs Scarlett Johansson’s Likeness:
+   An AI voice generator closely resembling Scarlett Johansson’s voice has stirred controversy over digital rights, intellectual property, and consent. Johansson’s legal team and various commentators have raised concerns about the unauthorized use of her voice likeness by AI, which is part of a broader debate on how AI voice models are developed. This case reflects ongoing challenges in the regulation of AI-generated content, particularly when it comes to personal likeness and voice cloning, pushing for legal frameworks around consent in AI.
+
