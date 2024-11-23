@@ -1,0 +1,42 @@
+\documentclass[12pt,letterpaper,final]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{fourier}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+%\usepackage{natbib}
+%\bibliographystyle{plainnat}
+\usepackage[backend=biber, style=verbose]{biblatex}
+\addbibresource{HarmAI.bib}
+\author{Abdon Morales\\The University of Texas at Austin\\Department of Computer Science}
+\title{CS 309 Ethics Project\\AI-based Detectors: A Flaw of Teacher-Student Confidence}
+\begin{document}
+\nocite{*}
+\maketitle
+\date
+
+% Introduction and the discription of the technology is chose
+\chapter{Technology Description}
+Nowadays, with the rise of large language models such as ChatGPT, Microsoft's Copilot, Anthropic's Claude, and Meta's Llama. There is a wide use of this technology in area such as software development, higher education, K-12 education, grammer tools, and other helpful software that makes these mundane tasks relatively small and easy to do; and free up time to do other complex and time-consuming tasks.\\
+However, this new technology for higher education and K-12 has been considered both a positive impact in education such as giving a helping hand with the instructor on teaching students concepts that they still don't understand via LLMs/chat-bots when the instructor is not available. Furthermore, it can become a negative impact in education such rampant cheating [academic dishonesty], doing the homework for you and not grapsing the concept fully; this could also lead to higher yield in procrastination\citep{abbas2024} which becomes yet another negative factor in one's individual education endevours.
+
+
+% How is this tech that I chose AI-based or contains AI elements
+\chapter{What makes this an AI-based technology}
+
+% What are the strenghts and limits of the technology
+\chapter{Strengths and limitations}
+
+% What are the risk associated with this technology
+\chapter{Addressing risks}
+
+% What are some improvements that can be done to this technology?
+\chapter{Improvements}
+
+% Closing arguments and future direction of this technology
+\chapter{Conclusion and future directions}
+
+\bibliography{HarmAI}
+\end{document}

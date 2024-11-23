@@ -1,29 +1,53 @@
-\documentclass[12pt,letterpaper,final]{report}
+\documentclass[11pt,letterpaper,final]{report}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{fourier}
-\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage[backend=bibtex,style=numeric]{biblatex}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={CS 309 Ethics Project\\AI-based Detectors: A Flaw of Teacher-Student Confidence},
+    pdfpagemode=FullScreen,
+    }
+
+\addbibresource{EthicsAI.bib}
+
 \author{Abdon Morales\\The University of Texas at Austin\\Department of Computer Science}
 \title{CS 309 Ethics Project\\AI-based Detectors: A Flaw of Teacher-Student Confidence}
+
 \begin{document}
 \maketitle
 \date
 
-% Introduction and the discription of the technology is chose
+% Introduction and the description of the technology chosen
 \chapter{Technology Description}
-Nowadays, with the rise of large language models such as ChatGPT, Microsoft's Copilot, Anthropic's Claude, and Meta's Llama. There is a wide use of this technology in area such as software development, higher education, K-12 education, grammer tools, and other helpful software that makes these mundane tasks relatively small and easy to do; and free up time to do other complex and time-consuming tasks.\\
-However, this new technology for higher education and K-12 has been considered both a 
-
+\paragraph{
+With the rise of large language models, such as ChatGPT and Claude, the response that the majority of the higher and K-12 education system(s) across the United States and beyond have implemented is the use of AI-based or AI-integrated detection systems to prevent the use of AI for academic dishonesty. Major sites and companies like \href{https://www.turnitin.com/solutions/topics/ai-writing/}{Turnitin}, \href{https://www.zerogpt.com/}{ZeroGPT}, \href{https://theory.stanford.edu/~aiken/moss/}{Stanford's MOSS}, and other companies have created these detection systems to prevent academic dishonesty using a confidence or probability score [sometimes a percentage] to the user, the professor.
+}
+\paragraph{
+What is AI-based detector? An AI-based detector is more of a multi-modal detection system infused with AI; it can be tailored for code syntax analysis, checking for similarities in papers, grammer-check on an email, looking at vocabulary usage. These AI-based detectors are much more than a whistleblower for academic dishonesy; it can also have positive usage.
+}
+\paragraph{
+Large language models in higher education and K-12, has been considered both a positive impact in education, such as giving a helping hand to the instructor on teaching students concepts they still don't understand via LLMs [chatbots] when the instructor is not available. However, it can have a negative impact on education, such as academic dishonesty and not grasping the concepts fully. This could also lead to a higher yield in procrastination\footfullcite{Abbas:2024aa}, which becomes yet another negative factor in one's individual educational endeavors.
+}
+\paragraph{
+This technology interests me because it addresses the ethical challenges in education and content verification while displaying artificial intelligence's practical applications in maintaining academic integrity. 
+}
 % How is this tech that I chose AI-based or contains AI elements
 \chapter{What makes this an AI-based technology}
 
-% What are the strenghts and limits of the technology
+% What are the strengths and limits of the technology
 \chapter{Strengths and limitations}
 
-% What are the risk associated with this technology
+% What are the risks associated with this technology
 \chapter{Addressing risks}
 
 % What are some improvements that can be done to this technology?
@@ -31,4 +55,5 @@ However, this new technology for higher education and K-12 has been considered b
 
 % Closing arguments and future direction of this technology
 \chapter{Conclusion and future directions}
+\printbibliography
 \end{document}
