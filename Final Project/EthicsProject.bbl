@@ -1,0 +1,379 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Abbas:2024aa}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Abbas},
+         familyi={A\bibinitperiod},
+         given={Muhammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JFA}{%
+         family={Jam},
+         familyi={J\bibinitperiod},
+         given={Farooq\bibnamedelima Ahmed},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KTI}{%
+         family={Khan},
+         familyi={K\bibinitperiod},
+         given={Tariq\bibnamedelima Iqbal},
+         giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMJFAKTI1}
+    \strng{fullhash}{AMJFAKTI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    While the discussion on generative artificial intelligence, such as
+  ChatGPT, is making waves in academia and the popular press, there is a need
+  for more insight into the use of ChatGPT among students and the potential
+  harmful or beneficial consequences associated with its usage. Using samples
+  from two studies, the current research examined the causes and consequences
+  of ChatGPT usage among university students. Study 1 developed and validated
+  an eight-item scale to measure ChatGPT usage by conducting a survey among
+  university students (N = 165). Study 2 used a three-wave time-lagged design
+  to collect data from university students (N = 494) to further validate the
+  scale and test the study's hypotheses. Study 2 also examined the effects of
+  academic workload, academic time pressure, sensitivity to rewards, and
+  sensitivity to quality on ChatGPT usage. Study 2 further examined the effects
+  of ChatGPT usage on students'levels of procrastination, memory loss, and
+  academic performance. Study 1 provided evidence for the validity and
+  reliability of the ChatGPT usage scale. Furthermore, study 2 revealed that
+  when students faced higher academic workload and time pressure, they were
+  more likely to use ChatGPT. In contrast, students who were sensitive to
+  rewards were less likely to use ChatGPT. Not surprisingly, use of ChatGPT was
+  likely to develop tendencies for procrastination and memory loss and dampen
+  the students'academic performance. Finally, academic workload, time pressure,
+  and sensitivity to rewards had indirect effects on students'outcomes through
+  ChatGPT usage.%
+    }
+    \verb{doi}
+    \verb 10.1186/s41239-024-00444-7
+    \endverb
+    \field{isbn}{2365-9440}
+    \field{number}{1}
+    \field{pages}{10}
+    \field{title}{Is it harmful or helpful? Examining the causes and
+  consequences of generative AI usage among university students}
+    \verb{url}
+    \verb https://doi.org/10.1186/s41239-024-00444-7
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{International Journal of Educational Technology in
+  Higher Education}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{Angwin:2016aa}{online}{}
+    \name{author}{4}{}{%
+      {{hash=AJ}{%
+         family={Angwin},
+         familyi={A\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Larson},
+         familyi={L\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mattu},
+         familyi={M\bibinitperiod},
+         given={Surya},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kirchner},
+         familyi={K\bibinitperiod},
+         given={Lauren},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ProPublica}%
+    }
+    \keyw{machine learning, bias, criminal justice, risk assessment, ethics,
+  sentencing}
+    \strng{namehash}{AJ+1}
+    \strng{fullhash}{AJLJMSKL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    This investigative article examines how risk assessment software used in
+  criminal sentencing across the United States is biased against Black
+  defendants, raising ethical and legal concerns about the role of machine
+  learning in the justice system.%
+    }
+    \field{note}{Accessed: 2024-12-02}
+    \field{title}{Machine Bias: There's Software Used Across the Country to
+  Predict Future Criminals. And It's Biased Against Blacks.}
+    \verb{url}
+    \verb https://www.propublica.org/article/machine-bias-risk-assessments-in-c
+    \verb riminal-sentencing
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Coffey:2024aa}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CL}{%
+         family={Coffey},
+         familyi={C\bibinitperiod},
+         given={Lauren},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CL1}
+    \strng{fullhash}{CL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Mixed performance by AI-detector tools leaves academics with no clear
+  answers.%
+    }
+    \field{title}{Professors Cautious of Tools to Detect AI-Generated Writing}
+    \verb{url}
+    \verb https://www.insidehighered.com/news/tech-innovation/artificial-intell
+    \verb igence/2024/02/09/professors-proceed-caution-using-ai
+    \endverb
+    \field{journaltitle}{Inside Higher Ed}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Bloomberg:2024aa}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Davalos},
+         familyi={D\bibinitperiod},
+         given={Jackie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={Leon},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {Bloomberg Media}%
+    }
+    \keyw{AI detection, cheating, education, technology, false positives}
+    \strng{namehash}{DJYL1}
+    \strng{fullhash}{DJYL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    This article explores the reliability of AI detectors in academic settings,
+  focusing on instances where students were falsely accused of cheating due to
+  detector inaccuracies.%
+    }
+    \field{note}{Accessed: 2024-12-02}
+    \field{title}{Do AI Detectors Work? Students Face False Cheating
+  Accusations}
+    \verb{url}
+    \verb https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-wo
+    \verb rk-students-face-false-cheating-accusations
+    \endverb
+    \field{journaltitle}{Bloomberg}
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Graves:2018aa}{report}{}
+    \name{author}{1}{}{%
+      {{hash=GL}{%
+         family={Graves},
+         familyi={G\bibinitperiod},
+         given={Lucas},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GL1}
+    \strng{fullhash}{GL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{DOI: 10.60625/risj-nqnx-bg89}
+    \field{title}{Understanding the Promise and Limits of Automated
+  Fact-Checking}
+    \verb{url}
+    \verb https://reutersinstitute.politics.ox.ac.uk/our-research/understanding
+    \verb -promise-and-limits-automated-fact-checking
+    \endverb
+    \list{institution}{1}{%
+      {Reuters Institute for the Study of Journalism}%
+    }
+    \field{type}{Factsheet}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mishra:2023aa}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Mishra},
+         familyi={M\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Support vector machines;Computer hacking;Computational
+  modeling;Network intrusion detection;Machine learning;Forestry;Predictive
+  models;Cyber security;cyber security threats;intrusion detection;Binary
+  Grasshopper Optimized Twin SVM (BGOTSVM)}
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    The difficulty of ensuring cyber-security is steadily growing as a result
+  of the alarming development in computer connectivity and the sizeable number
+  of applications associated to computers in recent years. The system also
+  requires robust defines against the growing number of cyber threats. As a
+  result, a possible role for cyber-security might be performed by developing
+  Intrusion Detection Systems (IDS) to detect inconsistencies and threats in
+  computer networks. An effective data-driven intrusion detection system has
+  been created with the use of Artificial Intelligence, particularly Machine
+  Learning techniques. This research proposes a novel Binary Grasshopper
+  Optimized Twin Support Vector Machine (BGOTSVM) based security model which
+  first considers the security features ranking according to their relevance
+  before developing an IDS model based on the significant features that have
+  been selected. By lowering the feature dimensions, this approach not only
+  improves predictive performance for unidentified tests but also lowers the
+  model's computational expense. Trials are conducted using four common ML
+  techniques to compare the results to those of the current approaches
+  (Decision Tree, Random Decision Forest, Random Tree, and Artificial Neural
+  Network). The experimental findings of this study confirm that the suggested
+  methods may be used as learning-based models for network intrusion detection
+  and demonstrate that, when used in the real world, they outperform
+  conventional ML techniques.%
+    }
+    \field{booktitle}{2023 2nd International Conference on Edge Computing and
+  Applications (ICECAA)}
+    \verb{doi}
+    \verb 10.1109/ICECAA58104.2023.10212209
+    \endverb
+    \field{pages}{324\bibrangedash 330}
+    \field{title}{Cyber Security Threat Detection Model Using Artificial
+  Intelligence Technology}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Turnitin:2024aa}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={Turnitin},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{Webpage}
+    \field{note}{Accessed: 2024-11-25}
+    \field{title}{How does Turnitin ensure that the false positive rate for a
+  document remains less than 1\%?}
+    \verb{url}
+    \verb https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin
+    \verb -s-AI-writing-detection-capabilities-FAQs#h_01J2HRTB141222MRDXMW24VVJ
+    \verb C
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Vanderbilt-University:2023aa}{online}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={{Vanderbilt University}},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vanderbilt University}%
+    }
+    \keyw{AI detection, Turnitin, academic integrity, higher education,
+  technology policy}
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{abstract}{%
+    This article provides Vanderbilt University's guidance on AI detection
+  tools, discusses their limitations, and explains the decision to disable
+  Turnitin's AI detection tool in academic settings.%
+    }
+    \field{note}{Accessed: 2024-12-02}
+    \field{title}{Guidance on AI Detection and Why We're Disabling Turnitin's
+  AI Detector}
+    \verb{url}
+    \verb https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-dete
+    \verb ction-and-why-were-disabling-turnitins-ai-detector/
+    \endverb
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput

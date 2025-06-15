@@ -1,0 +1,27 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2024.4.15)  7 DEC 2024 19:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode  .a.b.c.\input  /u/abdonm/C
+S 309/Final Project/EthicsProject.tex
+
+! Emergency stop.
+<*> ...atother\HCode  .a.b.c.\input  /u/abdonm/CS 
+                                                  309/Final Project/EthicsPr...
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 483066
+ 383 string characters out of 5963576
+ 231994 words of memory out of 5000000
+ 15152 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 11i,0n,15p,540b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
